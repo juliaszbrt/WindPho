@@ -1,7 +1,7 @@
 // 'use client'
 import Link from 'next/link';
 import { AiOutlineMenu, AiOutlineClose } from 'react-icons/ai'
-import { useState } from "react"
+// import { useState } from "react"
 
 export default function Navbar() {
     // const [menuOpen, setMenuOpen] = useState(false)
