@@ -10,8 +10,8 @@ export default function About() {
                 <div className='bg-[#83A1C5] h-[35vh] md:h-[50vh] md:grow'></div>
 
                 <div className="md:w-[10%] md:grow">
-                    <h1 className='ml-[3rem] mt-[2rem] text-[2rem] font-bold text-[#305076]'>ABOUT US</h1>
-                    <p className='ml-[3rem] mt-[2rem] mr-[3rem] text-justify text-[1rem] text-[#305076]'>Lorem ipsum dolor sit amet, 
+                    <h1 className='tracking-[3.5px] ml-[3rem] mt-[2rem] text-[2rem] font-black text-[#305076]'>ABOUT US</h1>
+                    <p className='tracking-[1.5px] ml-[3rem] mt-[2rem] mr-[3rem] text-justify text-[1rem] text-[#305076]'>Lorem ipsum dolor sit amet, 
                         consectetur adipiscing elit, 
                         sed do eiusmod tempor incididunt 
                         ut labore et dolore magna aliqua. 

@@ -10,11 +10,11 @@ const home = () => {
                 <div>
                     <div className="flex md:gap-[6rem] md:items-center md:mt-[4.5rem]">
                         <div className="md:flex md:flex-col md:grow md:w-auto">
-                            <h1 className=" mt-[5rem] text-[2.5rem] font-bold text-[#305076] sm:text-[4rem] md:mt-0 text-center">
+                            <h1 className="tracking-[2px] mt-[5rem] text-[2.5rem] font-bold text-[#305076] sm:text-[4rem] md:mt-0 text-center">
                                 Lorem ipsum <br />
                                 Dolor sit amet.
                             </h1>
-                            <p className=" text-[1.2rem] mt-[20px] font-medium text-[#47688F] sm:text-[1.5rem] text-center">
+                            <p className="tracking-[1.5px] text-[1.2rem] mt-[20px] font-medium text-[#47688F] sm:text-[1.5rem] text-center">
                                 Authentic Asian flavours,<br />
                                 right to your table
                             </p>
