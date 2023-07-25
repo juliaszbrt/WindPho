@@ -21,7 +21,7 @@ const home = () => {
                             <div className="flex justify-center">
                                 <Link href="/menu">
                                     <button className="mt-[4rem] bg-[#E1ECF9] w-[11rem] md:mb-[2rem] 
-                                                    lg:w-[15rem] lg:h-[3.5rem] lg:text-[24px] rounded-3xl 
+                                                    lg:w-[15rem] lg:h-[3.5rem] lg:text-[24px] rounded-full 
                                                     p-[10px] tracking-[2px] text-[18px] text-[#305076] 
                                                     hover:text-[#112235] hover:font-bold ease-in-out duration-500"
                                             type="button">
