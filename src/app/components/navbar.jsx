@@ -40,7 +40,8 @@ export default function Navbar() {
                     // if menuOpen is true --> visible; else --> hidden
                     menuOpen ? 'fixed w-[100vw] h-screen bg-[#305076] ease-in duration-500 flex flex-col justify-center items-center' : 'hidden'
                 }>
-                    <div onClick={handleMenu} className="text-[#A8BCD3] flex flex-col text-center gap-[1.5rem] text-[2rem]">
+                    <div onClick={handleMenu} className="text-[#A8BCD3] tracking-[3px] flex flex-col items-center text-center gap-[1.5rem] text-[2rem]">
+                        <a href='/'><div className="h-[5rem] w-[5rem] rounded-[100%] bg-[#A8BCD3] mt-[-5rem] mb-[2rem]"></div></a>
                         <Link href="/" >Home</Link>
                         <Link href="/menu">Menu</Link>
                         <Link href="/contact">Contact</Link>
